@@ -1,12 +1,11 @@
 ---
 title: <project Conways Game of life >
-author: <Connor> <Guard> - <n10690352>
-date: 19/09/2020
+author: <Connor> <Guard>
 ---
 
 ## Build Instructions
 1) locate life.dll file within CMD using cd C:\<path>
-2)the file location within this zip is: C:<path>\CAB201_2020S2_ProjectPartB_n10690352\Life\Life\bin\Debug\netcoreapp3.1
+2)the file location within this zip is: C:<path>\Life\bin\Debug\netcoreapp3.1
 3) enter "dotnet life.dll" to run program with default settings
 
 
